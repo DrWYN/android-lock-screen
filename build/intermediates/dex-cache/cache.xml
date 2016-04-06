@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangyanan/AndroidStudioProjects/LsnLockScreen/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="111ec49efb8498a6623d236eb3c38d75ff3a9c99">
+        <dex dex="/Users/wangyanan/AndroidStudioProjects/LsnLockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_bbb85b981574fa297e9c02d0dd1a77a69f8d57e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wangyanan/AndroidStudioProjects/LsnLockScreen/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="419665ba085e2ad33ae24d15bd7f2837b25fbfe9">
+        <dex dex="/Users/wangyanan/AndroidStudioProjects/LsnLockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_68672610512c7122d0afd0b70c232aa5241e6f81/classes.dex" />
+    </item>
+
+</items>
